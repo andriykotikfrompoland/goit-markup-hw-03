@@ -1,12 +1,16 @@
 .features {
 }
-.features-subtitle {
-}
 .features-list {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
 }
 .features-item {
+  width: calc((100% - 72px) / 3);
 }
 .features-name {
+  margin-bottom: 8px;
+
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
