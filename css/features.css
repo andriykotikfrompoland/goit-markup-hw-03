@@ -6,7 +6,7 @@
   gap: 24px;
 }
 .features-item {
-  width: calc((100% - 72px) / 3);
+  width: calc((100% - 72px) / 4);
 }
 .features-name {
   margin-bottom: 8px;

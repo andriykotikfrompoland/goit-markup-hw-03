@@ -21,11 +21,14 @@
   background-color: #fff;
 }
 .team-item {
-  flex-basis: calc((100% - 72px) / 3);
+  flex-basis: calc((100% - 72px) / 4);
+  border-radius: 0 0 4px 4px;
 }
 .team-img {
 }
 .team-caption {
+  margin-bottom: 8px;
+
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;

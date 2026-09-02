@@ -3,10 +3,12 @@
 .portfolio-list {
   display: flex;
   flex-wrap: wrap;
-  gap: 24px;
+  row-gap: 24px;
+  column-gap: 48px;
 }
 .portfolio-list-container-wraper {
   padding: 32px 16px;
+  border: 1px solid #e7e9fc;
 }
 .portfolio-subtitle {
   margin-bottom: 72px;
